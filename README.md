@@ -6,12 +6,12 @@ A watchmaking study that turns a complete timepiece to reveal its mechanical rev
 
 **[Visit the live site ↗](https://northlight7.github.io/cinematic-meridian/)** · [Project notes & screenshots](https://github.com/northlight7/web-design-portfolio/tree/main/projects/meridian) · [Full portfolio](https://northlight7.github.io/web-design-portfolio/)
 
-![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](preview.jpg)
+![MERIDIAN watchmaking concept with a dimensional brass timepiece and a separate winding control panel.](https://raw.githubusercontent.com/northlight7/cinematic-meridian/main/preview.jpg)
 
 <details>
 <summary>Play animated scroll preview (7 seconds)</summary>
 
-![Animated scroll preview of MERIDIAN Timeworks](preview.gif)
+![Animated scroll preview of MERIDIAN Timeworks](https://raw.githubusercontent.com/northlight7/cinematic-meridian/main/preview.gif)
 
 </details>
 
