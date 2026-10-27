@@ -3,3 +3,5 @@
 .hero-title{font-size:clamp(100px,12vw,190px);top:20svh}.hero-title em{margin-left:0}@media(max-width:700px){.hero-title{font-size:22vw;top:19svh}.hero-title em{margin-left:0}}
 
 .material-study{overflow:hidden}@media(max-width:700px){.hero-title{z-index:3}.hero-description>.caps{font-size:11px}.view-caption{font-size:12px}.dock-top .caps{font-size:10px}}
+
+@media(max-width:360px){.atelier h2{font-size:72px}}
